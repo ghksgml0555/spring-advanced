@@ -13,7 +13,7 @@ public class MemberServiceImpl implements MemberService{
         return "ok";
     }
 
-    public String interal(String param){
+    public String internal(String param){
         return "ok";
     }
 }
